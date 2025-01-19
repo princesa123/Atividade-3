@@ -1,6 +1,6 @@
-# myapp
+# Atividade 3
 
-A new Flutter project.
+Pasta criada para atividade 3: calculadora
 
 ## Getting Started
 
